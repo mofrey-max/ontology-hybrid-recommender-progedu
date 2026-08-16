@@ -1,0 +1,26 @@
+{
+  "class_count": 14,
+  "object_property_count": 34,
+  "data_property_count": 9,
+  "individual_count": 11506,
+  "relationship_richness": 1.0,
+  "attribute_richness": 0.643,
+  "inheritance_richness": 0.0,
+  "annotated_elements": "57/57",
+  "inverse_properties_declared": 34,
+  "reasoner_consistent": true,
+  "reasoner_time_seconds": 7.1,
+  "population_per_class": {
+    "RecommendationStrategy": 1,
+    "Objectives": 11,
+    "QuestionExemplar": 8767,
+    "Syllabus": 1,
+    "Subjects": 1,
+    "SupportTools": 5,
+    "ActivityTools": 5,
+    "Learner": 383,
+    "LearnerProfile": 383,
+    "AchievementRecord": 1631,
+    "Recommendation": 318
+  }
+}
